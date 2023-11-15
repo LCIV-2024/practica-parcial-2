@@ -8,11 +8,11 @@
         <version>3.1.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ar.edu.utn.frc.tup.lciii</groupId>
-    <artifactId>lciii-scaffolding</artifactId>
+    <groupId>ar.edu.utn.frc.tup.lc.iv</groupId>
+    <artifactId>practica-parcial-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lciii-scaffolding</name>
-    <description>LCII Initial Scaffolding</description>
+    <name>practica-parcial-2</name>
+    <description>Practica Parcial 2</description>
     <properties>
         <java.version>17</java.version>
     </properties>
